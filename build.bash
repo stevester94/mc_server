@@ -1,1 +1,1 @@
-docker build --network=host -t mc-server .
+docker build -t mc-server .
