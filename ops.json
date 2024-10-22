@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "7e5e2776-c93d-4284-a373-2807d560655d",
+    "name": "YoyoSnap",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "390fbd36-dee0-42a8-8ffa-60c55e52e0e3",
+    "name": "MuhTendees",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
